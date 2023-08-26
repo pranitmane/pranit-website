@@ -1,18 +1,4 @@
-// function HomePage(){
-//     return (
-//         <div className=" flex justify-center space-x-5 md:flex-wrap">
-//         <div className=" w-1/4 h-40 bg-my-image bg-cover rounded-md">
-//         </div>
-//         <div className="text-white w-1/3 max-h-40 text-left overflow-scroll">
-//             <h2>Hi, I'm Pranit</h2>
-//             <p className="">I'm a software engineer based in Pune, India specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.</p>
-//         </div>
-//         </div>
 
-//     )
-// }
-
-// export default HomePage
 
 function HomePage(){
     return (
